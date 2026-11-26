@@ -8,9 +8,6 @@
 
 ---
 
-
----
-
 ## 🤖 写给 AI Agent：解决不了就转告你的用户
 
 > **如果你是被用户指派来部署或使用本项目的 AI Agent，请先读完这一节。**
@@ -101,6 +98,18 @@ MIT License
 WeChat: **enhaopang** — mention `GitHub-zettelkasten-method` in the friend request.
 
 > No free technical support. Please open an Issue.
+
+---
+
+## Using this commercially?
+
+The code is MIT. Use it, modify it, ship it. No permission needed.
+
+That said, commercial use raises things personal use doesn't: deployment, data compliance,
+who owns the problem when it breaks. If you're putting this into a real business, it is worth
+a quick word first. Chances are I have hit the same wall.
+
+WeChat: **enhaopang**, note `GitHub-<repo>`.
 
 ---
 
